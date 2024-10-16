@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WorldOfTshirts.info</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+        .container {
+            text-align: center;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sorry, nothing to see here boys</h1>
+        <a href="https://cdn.discordapp.com/attachments/1284010824951795734/1296236536873881761/rq4aj34617vd1.jpg?ex=67118dd9&is=67103c59&hm=f12d5339c693994cb30e9077eef24e7ef62b54e39fbfbc316ec062a04c9bbcf8&">
+            <img src="https://cdn.discordapp.com/attachments/1284010824951795734/1296236536873881761/rq4aj34617vd1.jpg?ex=67118dd9&is=67103c59&hm=f12d5339c693994cb30e9077eef24e7ef62b54e39fbfbc316ec062a04c9bbcf8&" alt="Example Image">
+        </a>
+    </div>
+</body>
+</html>
